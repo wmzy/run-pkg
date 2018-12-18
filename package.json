@@ -1,0 +1,25 @@
+{
+  "name": "run-pkg",
+  "version": "0.1.0",
+  "description": "run package in shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmzy/run-pkg.git"
+  },
+  "keywords": [
+    "cli",
+    "shell",
+    "package",
+    "node_modules"
+  ],
+  "author": "wmzy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wmzy/run-pkg/issues"
+  },
+  "homepage": "https://github.com/wmzy/run-pkg#readme"
+}
